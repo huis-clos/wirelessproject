@@ -1,0 +1,100 @@
+17:02:23.997115 6863467459us tsft 6.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:24.002249 6863472721us tsft 24.0 Mb/s 2412 MHz 11g -75dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:24.055378 6863525635us tsft 6.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:24.061375 6863531866us tsft 24.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:27.476001 6866946247us tsft 6.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:30.001884 6869472137us tsft 6.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:30.001894 6869472280us tsft bad-fcs 2412 MHz 11g -75dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:71:73:82:80 (oui Unknown) Data IV:315 Pad 20 KeyID 0
+17:02:30.006253 6869476643us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:31.690755 6871161166us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:31.695634 6871165920us tsft 6.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:31.695645 6871166058us tsft bad-fcs 2412 MHz 11g -74dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:4a:b6:c9:8c:48:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:71:73:82:80 (oui Unknown) Data IV:317 Pad 20 KeyID 0
+17:02:31.701000 6871171482us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:31.734521 6871204930us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:31.735285 6871205684us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:31.736133 6871206283us tsft 6.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:31.736143 6871206359us tsft bad-fcs 2412 MHz 11g -95dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:21:42:5d:a5 (oui Unknown) Data IV:318 Pad 20 KeyID 0
+17:02:31.740377 6871210794us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:36.765620 6876236064us tsft 24.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:36.816119 6876286384us tsft 6.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:36.816129 6876286524us tsft bad-fcs 2412 MHz 11g -73dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:71:73:82:80 (oui Unknown) Data IV:31a Pad 20 KeyID 0
+17:02:38.939255 6878409705us tsft 24.0 Mb/s 2412 MHz 11g -75dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:38.939754 6878410126us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:38.940515 6878410699us tsft 6.0 Mb/s 2412 MHz 11g -75dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:38.985500 6878455966us tsft 24.0 Mb/s 2412 MHz 11g -75dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:38.986004 6878456369us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:38.986744 6878456979us tsft 6.0 Mb/s 2412 MHz 11g -75dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:38.986754 6878457136us tsft bad-fcs 2412 MHz 11g -76dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:ed:35:54:28 (oui Unknown) Data IV:9eb26 Pad 20 KeyID 0
+17:02:38.992497 6878462938us tsft 24.0 Mb/s 2412 MHz 11g -75dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:42.270258 6881740438us tsft 6.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:42.270268 6881740581us tsft bad-fcs 2412 MHz 11g -74dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:71:73:82:80 (oui Unknown) Data IV:31f Pad 20 KeyID 0
+17:02:42.275994 6881746413us tsft 24.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:42.434871 6881905287us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:42.435273 6881905708us tsft 24.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:42.436025 6881906198us tsft 6.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:42.436035 6881906338us tsft bad-fcs 2412 MHz 11g -74dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:71:73:82:80 (oui Unknown) Data IV:320 Pad 20 KeyID 0
+17:02:42.436620 6881906869us tsft 6.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:42.436631 6881907008us tsft 2412 MHz 11g -73dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:71:73:82:80 (oui Unknown) Data IV:321 Pad 20 KeyID 0
+17:02:42.441757 6881912162us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:44.802895 6884273031us tsft 6.0 Mb/s 2412 MHz 11g -77dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:50.563518 6890033904us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:52.085626 6891555808us tsft 6.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:52.098625 6891569025us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:53.610876 6893081090us tsft 6.0 Mb/s 2412 MHz 11g -76dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:53.615250 6893085646us tsft 24.0 Mb/s 2412 MHz 11g -76dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:53.765767 6893235938us tsft 6.0 Mb/s 2412 MHz 11g -76dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:53.771636 6893241945us tsft 24.0 Mb/s 2412 MHz 11g -76dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:02:55.555013 6895025124us tsft 6.0 Mb/s 2412 MHz 11g -75dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:59.662754 6899132873us tsft 6.0 Mb/s 2412 MHz 11g -75dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:02:59.676137 6899146423us tsft 24.0 Mb/s 2412 MHz 11g -75dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:01.413512 6900883822us tsft 24.0 Mb/s 2412 MHz 11g -76dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:01.464266 6900934410us tsft 6.0 Mb/s 2412 MHz 11g -77dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:05.286397 6904756474us tsft 6.0 Mb/s 2412 MHz 11g -76dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:05.291639 6904761896us tsft 24.0 Mb/s 2412 MHz 11g -76dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:05.561131 6905031343us tsft 6.0 Mb/s 2412 MHz 11g -76dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:05.561880 6905032170us tsft bad-fcs 2412 MHz 11g -77dB signal antenna 0 39.0 Mb/s MCS 4 20 MHz lon GI CF +QoS BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:e9:b0:7e:ae (oui Unknown) Data IV:324 Pad 20 KeyID 0
+17:03:14.072520 6913542736us tsft 6.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:50:17:ff:9e:02:f2 (oui Unknown) 
+17:03:15.005760 6914475897us tsft 6.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:15.005770 6914476040us tsft bad-fcs 2412 MHz 11g -74dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:71:73:82:80 (oui Unknown) Data IV:32c Pad 20 KeyID 0
+17:03:15.010257 6914480532us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:22.172514 6921642624us tsft 6.0 Mb/s 2412 MHz 11g -78dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:22.185011 6921655279us tsft 24.0 Mb/s 2412 MHz 11g -78dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:26.139273 6925609488us tsft 24.0 Mb/s 2412 MHz 11g -77dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:26.189140 6925659237us tsft 6.0 Mb/s 2412 MHz 11g -78dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:27.279391 6926749446us tsft 6.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:27.285762 6926756019us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:29.932044 6929402108us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:29.932399 6929402581us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:29.933014 6929403081us tsft 6.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:29.937515 6929407740us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:29.938149 6929408304us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:35.570529 6935040495us tsft 6.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:35.570541 6935040638us tsft 2412 MHz 11g -73dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:71:73:82:80 (oui Unknown) Data IV:332 Pad 20 KeyID 0
+17:03:35.583526 6935053654us tsft 24.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:38.621180 6938091138us tsft 6.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:38.621188 6938091281us tsft bad-fcs 2412 MHz 11g -74dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:50:17:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:71:73:82:80 (oui Unknown) Data IV:46b819 Pad 8 KeyID 2
+17:03:38.625907 6938096043us tsft 24.0 Mb/s 2412 MHz 11g -72dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:38.773396 6938243410us tsft 6.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:38.779278 6938249441us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:42.198023 6941668025us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:42.198424 6941668579us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:42.199038 6941669014us tsft 6.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:42.199048 6941669171us tsft bad-fcs 2412 MHz 11g -74dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:90:16:ff:9e:02:f2 (oui Unknown) SA:24:fd:52:5c:a0:8d (oui Unknown) DA:00:1d:71:73:82:80 (oui Unknown) Data IV:335 Pad 20 KeyID 0
+17:03:42.205030 6941675126us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:44.679908 6944149848us tsft 6.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:44.693031 6944163124us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:44.803273 6944273272us tsft 6.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:44.803283 6944273416us tsft bad-fcs 2412 MHz 11g -75dB signal antenna 0 72.2 Mb/s MCS 7 20 MHz short GI CF +QoS BSSID:3d:93:c9:8c:28:14 (oui Unknown) SA:63:d7:c9:0f:a0:8d (oui Unknown) DA:98:7e:ff:27:b4:27 (oui Unknown) Data IV:9dfabb Pad 0 KeyID 2
+17:03:50.289274 6949759166us tsft 6.0 Mb/s 2412 MHz 11g -79dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:50.294523 6949764655us tsft 24.0 Mb/s 2412 MHz 11g -79dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:51.896160 6951366048us tsft 6.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:52.265147 6951735137us tsft 6.0 Mb/s 2412 MHz 11g -79dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:52.278533 6951748624us tsft 24.0 Mb/s 2412 MHz 11g -79dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:53.582275 6953052213us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:53.582686 6953052731us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:53.583433 6953053346us tsft 6.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:53.588284 6953058335us tsft 24.0 Mb/s 2412 MHz 11g -73dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:53.729160 6953199035us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:53.729524 6953199589us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
+17:03:53.730158 6953200098us tsft 6.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) TA:24:fd:52:5c:a0:8d (oui Unknown) Request-To-Send
+17:03:53.736037 6953206098us tsft 24.0 Mb/s 2412 MHz 11g -74dB signal antenna 0 RA:50:17:ff:9e:02:f2 (oui Unknown) BA
