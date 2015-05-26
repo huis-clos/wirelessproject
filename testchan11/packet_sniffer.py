@@ -36,7 +36,7 @@ def main(argv):
 
     print "\n\n*********** Writing to file ***********\n\n"
 
-    tcpOutput = open('output' + argv[0], 'w')
+    tcpOutput = open('output' + argv[0] + '.txt', 'w')
 
     for i in sigList:
         tcpOutput.write("%s\n" % i)
